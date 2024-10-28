@@ -5,8 +5,6 @@
 
   翻頁：0為PageUp，-為PageDown
   Enter可輸出選中的字  
-  翻頁：0為PageUp，-為PageDown
-  Enter可輸出選中的字
   
   "menu/page_size": 9
 
